@@ -1,1 +1,1 @@
-# fashion-mnist-lab2
+# Deep Learning repo
